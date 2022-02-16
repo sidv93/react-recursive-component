@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  font-size: 24px;
+}
+
+.spacing {
+  flex: 1;
+  margin-left: 25%;
+  margin-top: 20vh;
+}
+
+.folder {
+  margin-left: 25px;
+}
+
+.folder-title {
+  cursor: pointer;
+}
+
+.file-name {
+  margin: 0;
+  padding: 0;
+  margin-left: 25px;
+}
